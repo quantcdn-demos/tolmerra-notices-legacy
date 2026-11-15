@@ -1,0 +1,210 @@
+{
+ "routes": [
+  {
+   "url": "/",
+   "file": "pages/home.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/notices.nsf/By+Date?OpenView",
+   "file": "pages/by-date.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/notices.nsf/By+Date?OpenView&Start=11&Count=10",
+   "file": "pages/by-date-2.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/notices.nsf/By+Category?OpenView",
+   "file": "pages/by-category.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/notices.nsf/By+Category?OpenView&CollapseView",
+   "file": "pages/by-category-collapsed.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/notices.nsf/Annual+Reports?OpenView",
+   "file": "pages/annual-reports.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/notices.nsf/Search?OpenForm",
+   "file": "pages/search.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/notices.nsf/By+Date/water-restrictions-eased-to-stage-1?OpenDocument",
+   "file": "pages/notice-water-restrictions-eased-to-stage-1.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/notices.nsf/By+Date/boil-water-advice-lifted-wattleford?OpenDocument",
+   "file": "pages/notice-boil-water-advice-lifted-wattleford.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/notices.nsf/By+Date/boil-water-advice-wattleford?OpenDocument",
+   "file": "pages/notice-boil-water-advice-wattleford.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/notices.nsf/By+Date/karrabee-reservoir-spillway-works?OpenDocument",
+   "file": "pages/notice-karrabee-reservoir-spillway-works.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/notices.nsf/By+Date/annual-report-2009-10?OpenDocument",
+   "file": "pages/notice-annual-report-2009-10.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/notices.nsf/By+Date/wattleford-road-water-main-replacement?OpenDocument",
+   "file": "pages/notice-wattleford-road-water-main-replacement.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/notices.nsf/By+Date/fees-and-charges-2010-11?OpenDocument",
+   "file": "pages/notice-fees-and-charges-2010-11.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/notices.nsf/By+Date/mains-flushing-program-northern-suburbs?OpenDocument",
+   "file": "pages/notice-mains-flushing-program-northern-suburbs.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/notices.nsf/By+Date/stage-2-water-restrictions?OpenDocument",
+   "file": "pages/notice-stage-2-water-restrictions.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/notices.nsf/By+Date/rainwater-tank-rebates?OpenDocument",
+   "file": "pages/notice-rainwater-tank-rebates.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/notices.nsf/By+Date/karrabee-east-planned-outage?OpenDocument",
+   "file": "pages/notice-karrabee-east-planned-outage.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/notices.nsf/By+Date/meter-reading-schedule?OpenDocument",
+   "file": "pages/notice-meter-reading-schedule.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/about.nsf/About?OpenDocument",
+   "file": "pages/about-about.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/about.nsf/Contact?OpenDocument",
+   "file": "pages/about-contact.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/about.nsf/Accessibility?OpenDocument",
+   "file": "pages/about-accessibility.html",
+   "type": "text/html; charset=US-ASCII",
+   "status": 200
+  },
+  {
+   "url": "/twa/notices.nsf/By+Date/annual-report-2009-10/$FILE/twa-annual-report-2009-10.pdf",
+   "file": "files/twa-annual-report-2009-10.pdf",
+   "type": "application/pdf",
+   "status": 200
+  },
+  {
+   "url": "/twa/web.nsf/twa.css",
+   "file": "assets/twa.css",
+   "type": "text/css",
+   "status": 200
+  },
+  {
+   "url": "/twa/web.nsf/twa-logo.gif",
+   "file": "assets/twa-logo.gif",
+   "type": "image/gif",
+   "status": 200
+  },
+  {
+   "url": "/twa/web.nsf/counter.gif",
+   "file": "assets/counter.gif",
+   "type": "image/gif",
+   "status": 200
+  },
+  {
+   "url": "/twa/web.nsf/new.gif",
+   "file": "assets/new.gif",
+   "type": "image/gif",
+   "status": 200
+  },
+  {
+   "url": "/icons/expand.gif",
+   "file": "assets/expand.gif",
+   "type": "image/gif",
+   "status": 200
+  },
+  {
+   "url": "/icons/collapse.gif",
+   "file": "assets/collapse.gif",
+   "type": "image/gif",
+   "status": 200
+  },
+  {
+   "url": "/icons/ecblank.gif",
+   "file": "assets/ecblank.gif",
+   "type": "image/gif",
+   "status": 200
+  },
+  {
+   "url": "/icons/vwicn004.gif",
+   "file": "assets/vwicn004.gif",
+   "type": "image/gif",
+   "status": 200
+  },
+  {
+   "url": "/icons/fileatt.gif",
+   "file": "assets/fileatt.gif",
+   "type": "image/gif",
+   "status": 200
+  },
+  {
+   "url": "/robots.txt",
+   "file": "robots.txt",
+   "type": "text/plain",
+   "status": 200
+  }
+ ],
+ "special": {
+  "notFound": "pages/404.html",
+  "login": "pages/login.html",
+  "method": "pages/405.html",
+  "searchResults": "pages/search-results.html"
+ },
+ "login": "/names.nsf?Login",
+ "searchPath": "/twa/notices.nsf/By+Date"
+}

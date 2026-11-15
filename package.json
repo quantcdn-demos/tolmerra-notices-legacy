@@ -1,0 +1,12 @@
+{
+  "name": "tolmerra-notices-legacy",
+  "private": true,
+  "description": "A fictional legacy notices site for a Quant demonstration. Fixed pages only.",
+  "type": "module",
+  "engines": {"node": ">=24"},
+  "scripts": {
+    "start": "node server.mjs",
+    "generate": "node scripts/generate.mjs",
+    "test": "node --test test/*.test.mjs"
+  }
+}

@@ -1,0 +1,14 @@
+# Local run and the Quant Cloud import. The container serves fixed pages on port 8080.
+services:
+  notices:
+    image: ghcr.io/quantcdn-demos/tolmerra-notices-legacy:latest
+    build: .
+    ports:
+      - "8080:8080"
+    read_only: true
+    user: "1000"
+    deploy:
+      resources:
+        limits:
+          cpus: "0.25"
+          memory: 512M
